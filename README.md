@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Comentários da Priscila: 
+Foi utilizado React e TypeScript para criar um site onde é possível adicionar itens no carrinho de compras e cadastrar usuarios, baseado na mentoria do professor Douglas Morais do Hiring Coders (Gama Academy).
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -10,6 +13,13 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### Comentários da Priscila: 
+- Roda o app no modo de desenvolvimento
+
+### `yarn server`
+
+- Roda o servidor na porta selecionada do local host. Foi utilizada a porta 8080 nos testes.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
