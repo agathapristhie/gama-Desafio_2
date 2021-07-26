@@ -44,12 +44,12 @@ const Home: React.FC = () => {
     localStorage.setItem('@cart', productStore)
   }
 
-  const getTotalItems = (items: IProduct[]) =>{
+  /* const getTotalItems = (items: IProduct[]) =>{
     items.reduce((ack: number, item) => ack + item.amount, 0);
   }
 
   const handleRemoveFromCart = () => null;
-
+ */
  return (
     <Banner>
       <Container>
