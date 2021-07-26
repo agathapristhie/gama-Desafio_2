@@ -1,0 +1,90 @@
+{
+  "produtos": [
+      {
+          "id": 252,
+          "photo":"sapato1.jpg",
+          "name": "Bota",
+          "description": "Azul de Inverno",
+          "sales": "",
+          "price": "R$ 300,00"
+                
+      },
+      {
+          "id": 260,
+          "photo":"https://cdn.pixabay.com/photo/2015/09/03/20/13/stairs-921252__340.jpg",
+          "name": "Bota",
+          "description": "Preta com Salto",
+          "sales": "",
+          "price": "R$ 550,00"
+
+      },
+      {
+          "id": 28,
+          "photo":"https://cdn.pixabay.com/photo/2017/02/21/15/13/high-heels-2086329__340.jpg",
+          "name": "Sapato",
+          "description": "Salto Vermelho",
+          "sales": "O segundo par sai pela metade do preço!",
+          "price": "R$ 350,00"
+      },
+
+      {
+          "id": 104,
+          "photo":"https://cdn.pixabay.com/photo/2017/10/05/08/55/high-heeled-shoes-2818720__340.png",
+          "name": "Sapato",
+          "description": "Salto Azul Estampado",
+          "sales": "",
+          "price": "R$ 245,00"
+      },
+
+      { "id": 176,
+          "photo":"https://cdn.pixabay.com/photo/2017/09/24/01/32/shoe-2780627__340.png",
+          "name": "Sapato",
+          "description": "Salto Alto Rosa",
+          "sales":"O segundo par sai pela metade do preço!",
+          "price": "R$ 350,00"
+      },
+      
+      {
+          "id": 280,
+          "photo":"https://cdn.pixabay.com/photo/2017/02/01/12/22/fashion-2030046__340.png",
+          "name": "Sapato",
+          "description": "Salto Alto Amarelo",
+          "sales":"O segundo par sai pela metade do preço!",
+          "price": "R$ 350,00"
+      },
+      { "id": 81,
+          "photo":"https://cdn.pixabay.com/photo/2015/01/06/16/24/shoe-590516__340.jpg",
+          "name": "Sapato",
+          "description": "Salto Alto Azul",
+          "sales":"O segundo par sai pela metade do preço!",
+          "price": "R$ 350,00"
+      },
+      {
+          "id": 191,
+          "photo":"https://cdn.pixabay.com/photo/2019/02/23/22/16/shoe-4016645__340.jpg",
+          "name": "Sandália",
+          "description": "Festa - Branca com Salto",
+          "sales": "",
+          "price": "R$ 287,50"
+      },
+      {
+          "id": 36,
+          "photo":"https://cdn.pixabay.com/photo/2015/03/11/22/28/sandal-669372__340.jpg",
+          "name": "Sandália",
+          "description": "Festa - Rosa-Dourada com Salto",
+          "sales": "15% off!",
+          "price": "R$ 250,00"
+      },
+      
+      {
+          "id": 239,
+          "photo":"https://cdn.pixabay.com/photo/2017/10/12/18/13/shoe-2845281__340.png",
+          "name": "Sapato",
+          "description": "Saltinho Baixo Prata",
+          "sales": "",
+          "price": "R$ 400,00"
+
+      }
+      
+  ]
+}
