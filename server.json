@@ -6,7 +6,7 @@
             "name": "Bota",
             "description": "Azul de Inverno",
             "sales": "",
-            "price": "R$ 300,00"
+            "price": "300,00"
                   
         },
         {
@@ -15,7 +15,7 @@
             "name": "Bota",
             "description": "Preta com Salto",
             "sales": "",
-            "price": "R$ 550,00"
+            "price": "550,00"
 
         },
         {
@@ -24,7 +24,7 @@
             "name": "Sapato",
             "description": "Salto Vermelho",
             "sales": "O segundo par sai pela metade do preço!",
-            "price": "R$ 350,00"
+            "price": "350,00"
         },
 
         {
@@ -33,7 +33,7 @@
             "name": "Sapato",
             "description": "Salto Azul Estampado",
             "sales": "",
-            "price": "R$ 245,00"
+            "price": "245,00"
         },
 
         { "id": 176,
@@ -41,7 +41,7 @@
             "name": "Sapato",
             "description": "Salto Alto Rosa",
             "sales":"O segundo par sai pela metade do preço!",
-            "price": "R$ 350,00"
+            "price": "350,00"
         },
         
         {
@@ -50,14 +50,14 @@
             "name": "Sapato",
             "description": "Salto Alto Amarelo",
             "sales":"O segundo par sai pela metade do preço!",
-            "price": "R$ 350,00"
+            "price": "350,00"
         },
         { "id": 81,
             "photo":"https://cdn.pixabay.com/photo/2015/01/06/16/24/shoe-590516__340.jpg",
             "name": "Sapato",
             "description": "Salto Alto Azul",
             "sales":"O segundo par sai pela metade do preço!",
-            "price": "R$ 350,00"
+            "price": "350,00"
         },
         {
             "id": 191,
@@ -65,7 +65,7 @@
             "name": "Sandália",
             "description": "Festa - Branca com Salto",
             "sales": "",
-            "price": "R$ 287,50"
+            "price": "287,50"
         },
         {
             "id": 36,
@@ -73,7 +73,7 @@
             "name": "Sandália",
             "description": "Festa - Rosa-Dourada com Salto",
             "sales": "15% off!",
-            "price": "R$ 250,00"
+            "price": "250,00"
         },
         
         {
@@ -82,7 +82,7 @@
             "name": "Sapato",
             "description": "Saltinho Baixo Prata",
             "sales": "",
-            "price": "R$ 400,00"
+            "price": "400,00"
 
         }
         
