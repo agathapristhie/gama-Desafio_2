@@ -127,7 +127,7 @@ const Home: React.FC = () => {
       
       <div className="nav">
        <div className="logo">
-          <img src={Pri} alt="Pri" width="200px" height="auto"/>
+          <img src={Pri} alt="Pri" width="200px"/>
         </div>
         <StyledButton onClick={()=> setCartOpen(true)}>
         <div className="cart">
@@ -137,7 +137,7 @@ const Home: React.FC = () => {
       </StyledButton>
       </div>
       
-          <section className="section">
+          <section className="section-prod">
               {
                   data.map((prod) => (
                         <div className="product-content" key={prod.id}>
@@ -146,7 +146,7 @@ const Home: React.FC = () => {
                         <span>{prod.description}</span>
                         <h4>{prod.sales}</h4>
                         <h5>R${prod.price} </h5>
-                        <button onClick={ () => handleAddToCart(prod)}> Adicionar ao Carrinho </button>
+                        <button className="button-prod" onClick={ () => handleAddToCart(prod)}> Adicionar ao Carrinho </button>
                     </div>
                   ))
               }
