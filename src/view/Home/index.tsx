@@ -124,9 +124,9 @@ const Home: React.FC = () => {
         />
       </Drawer>
       
-         
+      
       <div className="nav">
-       <div>
+       <div className="logo">
           <img src={Pri} alt="Pri" width="200px" height="auto"/>
         </div>
         <StyledButton onClick={()=> setCartOpen(true)}>
@@ -136,6 +136,7 @@ const Home: React.FC = () => {
       </div>
       </StyledButton>
       </div>
+      
           <section className="section">
               {
                   data.map((prod) => (

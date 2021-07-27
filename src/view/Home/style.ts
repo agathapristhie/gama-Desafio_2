@@ -11,14 +11,19 @@ export const Container = styled.div`
   .nav{
     background-color:#708090;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
     color:#ffb3cc;
-    .cart{
+    .logo{
       display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
+      justify-content: space-between;
       align-items: center;
+
+      
+    }
+    .cart{
+      font-size:30px;
     }
   }
 
@@ -53,19 +58,27 @@ export const Container = styled.div`
 section {
     padding: 15px 15px;
     box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 20px rgba(0, 0, 0, .16);
+    max-width: 80%;
 }
 img{
-  max-width: 200px;
+  max-width: 80%;
   object-fit:cover;
   margin-left:40px;
 }
 
 .nav{
-  max-width: 90vh;
+  padding: 15px 15px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 20px rgba(0, 0, 0, .16);
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  max-width: 80%;
+  .logo{
+    position: absolute;
+    right: 30%;
+  }
   .cart{
-    width: 30vh;
+    font-size:12px;
   }
 }
 }
