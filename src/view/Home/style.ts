@@ -54,8 +54,21 @@ section {
     padding: 15px 15px;
     box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 20px rgba(0, 0, 0, .16);
 }
+img{
+  max-width: 200px;
+  object-fit:cover;
+  margin-left:40px;
 }
+
+.nav{
+  max-width: 90vh;
+  display: flex;
+  flex-wrap: wrap;
+  .cart{
+    width: 30vh;
   }
+}
+}
 `
 //Papel de Parede
 export const Banner = styled.body`

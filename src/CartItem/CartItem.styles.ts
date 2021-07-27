@@ -7,10 +7,6 @@ font-family: Arial, Helvetica, sans-serif;
 border-bottom: 1px solid #add8e6;
 padding-bottom: 20px;
 
-div{
-
-}
-
 .information, .buttons{
     display:flex;
     justify-content:space-between;
@@ -21,4 +17,20 @@ img{
     object-fit:cover;
     margin-left:40px;
 }
+
+@media (max-width: 1024px){
+    width: 50px;
+    padding: 10px;
+    img{
+        display: none;
+    }
+    .information, .buttons{
+        display:flex;
+        justify-content:space-between;
+        width: 20px;
+    }
+    
+    }
+    
+
 `
